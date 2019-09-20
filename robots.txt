@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bajahgeey.ct0r.com/sitemap.xml
